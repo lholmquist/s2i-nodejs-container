@@ -76,6 +76,7 @@ test_client_kube
 test_client_faas
 test_client_cloudevents
 test_client_fastify
+test_client_pino
 "
 
 # If an app or a test is in UNSTABLE_TESTS and IGNORE_UNSTABLE_TESTS
